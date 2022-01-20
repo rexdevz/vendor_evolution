@@ -17,8 +17,8 @@
 #
 
 # Versioning System
-EVO_BASE_VERSION := 5.9.3
-EVO_CODENAME := Ocean
+EVO_BASE_VERSION := 5.9.4
+EVO_CODENAME := LTS
 
 # Set all versions
 EVO_BUILD_TYPE ?= UNOFFICIAL
